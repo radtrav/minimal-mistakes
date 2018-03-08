@@ -4,7 +4,11 @@ categories:
 published: true
 ---
 
+
+
 ## I love create-react-app but I don’t regret using react-slingshot
+
+![alt text](https://cdn.dribbble.com/users/464284/screenshots/3354218/react-slingshot-hires_1x.jpg)
 
 We initially started our project using the React-Redux starter kit react-slingshot put together by Cory House. This starter kit is great because it includes a lot of things that you would expect in a good boilerplate: testing, linting , hot reloading etc. The best part is that he has an excellent course on Pluralsight that covers alot of the configuration; from the npm scripts to babel, to web pack. Honestly the trickiest part about starting a new project is often deciding on the ideal configuration.
 

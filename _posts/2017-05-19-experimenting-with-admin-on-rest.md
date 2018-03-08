@@ -3,6 +3,7 @@ title: 'Experimenting With The Admin-On-Rest React-based Framework'
 categories:
 published: true
 ---
+![alt text](https://avatars2.githubusercontent.com/u/3116319?s=400&v=4)
 
 I came across admin-on-rest the other day and was intrigued with the some of the built in features that it comes with. Admin on rest is developed by marmelab and has 3000 stars on GitHub. It has about 100 contributors and  has a lot of recent activity. Admin-on-rest basically acts as an adaptable admin panel for any rest backend.
 
