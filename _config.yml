@@ -10,7 +10,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TravBlog"
+title                    : "Travis Young, Fullstack Web Developer "
 title_separator          : "-"
 name                     : "Travis Young"
 description              : "My personal dev blog"
@@ -188,7 +188,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
