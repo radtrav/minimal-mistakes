@@ -93,7 +93,7 @@ analytics:
 author:
   name             : "Travis Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Travis, Full Stack Developer with a focus on Node, React and Redux"
+  bio              : "Full Stack Developer with a focus on Node, React and Redux"
   location         : "Toronto"
   email            : "travyoung.dev@gmail.com"
   uri              :
