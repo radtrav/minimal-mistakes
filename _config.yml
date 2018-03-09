@@ -10,7 +10,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Travis Young, Fullstack Web Developer "
+title                    : "{ travisYoung }"
 title_separator          : "-"
 name                     : "Travis Young"
 description              : "My personal dev blog"
@@ -93,7 +93,7 @@ analytics:
 author:
   name             : "Travis Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Full Stack Developer with a focus on Node, React and Redux"
+  bio              : "Full Stack Developer with a focus on Node, React, Redux and everything JS"
   location         : "Toronto"
   email            : "travyoung.dev@gmail.com"
   uri              :

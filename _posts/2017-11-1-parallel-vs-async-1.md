@@ -1,5 +1,5 @@
 ---
-title: 'Understanding Parallel vs Asynchronouse Programming'
+title: 'Understanding Parallel vs Asynchronous Programming'
 categories:
 published: true
 ---
